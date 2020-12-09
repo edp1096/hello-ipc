@@ -1,0 +1,7 @@
+C:\Users\high\source\repos\hello-ipc\hello-ipc\bin\Debug\hello-ipc.exe.config
+C:\Users\high\source\repos\hello-ipc\hello-ipc\bin\Debug\hello-ipc.exe
+C:\Users\high\source\repos\hello-ipc\hello-ipc\bin\Debug\hello-ipc.pdb
+C:\Users\high\source\repos\hello-ipc\hello-ipc\obj\Debug\hello-ipc.csprojAssemblyReference.cache
+C:\Users\high\source\repos\hello-ipc\hello-ipc\obj\Debug\hello-ipc.csproj.CoreCompileInputs.cache
+C:\Users\high\source\repos\hello-ipc\hello-ipc\obj\Debug\hello-ipc.exe
+C:\Users\high\source\repos\hello-ipc\hello-ipc\obj\Debug\hello-ipc.pdb

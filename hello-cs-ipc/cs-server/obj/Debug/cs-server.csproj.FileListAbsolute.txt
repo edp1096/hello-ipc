@@ -1,0 +1,7 @@
+C:\Users\high\source\repos\hello-ipc\cs-server\obj\Debug\cs-server.csprojAssemblyReference.cache
+C:\Users\high\source\repos\hello-ipc\cs-server\obj\Debug\cs-server.csproj.CoreCompileInputs.cache
+C:\Users\high\source\repos\hello-ipc\cs-server\bin\Debug\cs-server.exe.config
+C:\Users\high\source\repos\hello-ipc\cs-server\bin\Debug\cs-server.exe
+C:\Users\high\source\repos\hello-ipc\cs-server\bin\Debug\cs-server.pdb
+C:\Users\high\source\repos\hello-ipc\cs-server\obj\Debug\cs-server.exe
+C:\Users\high\source\repos\hello-ipc\cs-server\obj\Debug\cs-server.pdb

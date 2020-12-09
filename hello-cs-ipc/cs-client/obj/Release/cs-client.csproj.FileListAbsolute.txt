@@ -1,0 +1,7 @@
+C:\Users\high\source\repos\hello-ipc\cs-client\bin\Release\cs-client.exe.config
+C:\Users\high\source\repos\hello-ipc\cs-client\bin\Release\cs-client.exe
+C:\Users\high\source\repos\hello-ipc\cs-client\bin\Release\cs-client.pdb
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Release\cs-client.csprojAssemblyReference.cache
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Release\cs-client.csproj.CoreCompileInputs.cache
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Release\cs-client.exe
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Release\cs-client.pdb

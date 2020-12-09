@@ -1,0 +1,6 @@
+C:\Users\high\source\repos\hello-ipc\cs-client\bin\Debug\cs-client.exe.config
+C:\Users\high\source\repos\hello-ipc\cs-client\bin\Debug\cs-client.exe
+C:\Users\high\source\repos\hello-ipc\cs-client\bin\Debug\cs-client.pdb
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Debug\cs-client.csproj.CoreCompileInputs.cache
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Debug\cs-client.exe
+C:\Users\high\source\repos\hello-ipc\cs-client\obj\Debug\cs-client.pdb
